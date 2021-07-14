@@ -19,7 +19,7 @@ def ara(cumle,harf):
 
 # Kullanıcıdan Cümle ve Harf alma
 cumle=(input("Bir cümle giriniz: "))
-harf=(input("Bir cümle giriniz: "))
+harf=(input("Bir harf giriniz: "))
 
 # Fonksiyona kullanıcının verilerinin gönderilmesi
 ara(cumle,harf)
